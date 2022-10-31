@@ -1,6 +1,10 @@
 
-//Quiz Questions
+var buttonA = document.getElementById("a");
+var buttonB = document.getElementById("b");
+var buttonC = document.getElementById("c");
+var buttonD = document.getElementById("d");
 
+//Quiz Questions
 var quizQuestions = [{
     question:"Which language runs in a web browser?",
     choiceA: "Java",
