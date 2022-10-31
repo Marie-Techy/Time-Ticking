@@ -1,0 +1,11 @@
+:root{
+    background-color: rgb(232, 77, 182);
+    }
+    
+    li{
+        padding-bottom: 3px;
+        color: white;
+        text-shadow: 1.5px 1px 3px black;
+        list-style-type: none;
+    }
+    
